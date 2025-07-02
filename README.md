@@ -68,7 +68,7 @@ GraphQL
 -Caching takes a bit more planning
 
 
-So... REST or GraphQL?
+So REST or GraphQL?
 Pick REST when:
 
 -Your data is simple and fits cleanly into resources
