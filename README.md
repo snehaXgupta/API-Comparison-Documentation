@@ -40,7 +40,7 @@ Edit
   }
 }
 
-➡️ This returns just the user’s name and email — nothing more, nothing less.
+➡ This returns just the user’s name and email — nothing more, nothing less.
 
 
 ✅ When REST Shines
