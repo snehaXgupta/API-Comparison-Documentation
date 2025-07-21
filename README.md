@@ -83,7 +83,7 @@ Pick GraphQL when:
 Sometimes, the best choice is both! Many teams use REST for simpler parts of the app, and GraphQL where flexibility matters most.
 
 
-Final Thought
+The Final Thought
 Don’t choose based on what’s trendy. Choose based on what your app and team really need.
 Both REST and GraphQL are great tools — what matters is using them wisely.
 
