@@ -1,7 +1,6 @@
-# REST vs GraphQL: The API Showdown Developers Should Know About  
+# REST vs GraphQL: The API Showdown Developers Should Know About:
 
-> Welcome to the great API debate. REST or GraphQL? One gives you tried-and-true structure. The other gives you flexibility. Let’s break it down in plain English — no jargon, just what you need to know.  
-
+Welcome to the great API debate. REST or GraphQL? One gives you tried-and-true structure. The other gives you flexibility. Let’s break it down in plain English — no jargon, just what you need to know.  
 
 
  REST: The Classic, Reliable Approach  
